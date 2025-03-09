@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/bss10/OneDrive/Desktop/eyantra/task_0/sequence_detector/simulation/modelsim
+vtb
+!s110 1726379257
+!i10b 1
+!s100 Db2O@o5?1FT^TD05XgMhb3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`7Y_>3FNHN=mzCFPZcPjd2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1726378543
+8C:/Users/bss10/OneDrive/Desktop/eyantra/task_0/sequence_detector/tb.v
+FC:/Users/bss10/OneDrive/Desktop/eyantra/task_0/sequence_detector/tb.v
+!i122 1
+L0 3 12
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1726379257.000000
+!s107 C:/Users/bss10/OneDrive/Desktop/eyantra/task_0/sequence_detector/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bss10/OneDrive/Desktop/eyantra/task_0/sequence_detector|C:/Users/bss10/OneDrive/Desktop/eyantra/task_0/sequence_detector/tb.v|
+!i113 1
+Z4 o-vlog01compat -work work
+Z5 !s92 -vlog01compat -work work +incdir+C:/Users/bss10/OneDrive/Desktop/eyantra/task_0/sequence_detector
+Z6 tCvgOpt 0
+vtraffic_light_controller
+!s110 1726379256
+!i10b 1
+!s100 S`LikLijfbz24W>U`IMnX1
+R1
+IM`o;67L>P2Vmk1dCa77nc3
+R2
+R0
+w1726378225
+8C:/Users/bss10/OneDrive/Desktop/eyantra/task_0/sequence_detector/traffic_light_controller.v
+FC:/Users/bss10/OneDrive/Desktop/eyantra/task_0/sequence_detector/traffic_light_controller.v
+!i122 0
+L0 3 34
+R3
+r1
+!s85 0
+31
+!s108 1726379256.000000
+!s107 C:/Users/bss10/OneDrive/Desktop/eyantra/task_0/sequence_detector/traffic_light_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/bss10/OneDrive/Desktop/eyantra/task_0/sequence_detector|C:/Users/bss10/OneDrive/Desktop/eyantra/task_0/sequence_detector/traffic_light_controller.v|
+!i113 1
+R4
+R5
+R6
