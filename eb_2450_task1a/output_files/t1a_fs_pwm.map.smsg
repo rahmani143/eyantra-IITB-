@@ -1,0 +1,3 @@
+Warning (10268): Verilog HDL information at pwm_generator.v(38): always construct contains both blocking and non-blocking assignments File: C:/Users/bss10/OneDrive/Desktop/edit_3/t1a_fs_pwm/code/pwm_generator.v Line: 38
+Warning (10268): Verilog HDL information at pwm_generator.v(49): always construct contains both blocking and non-blocking assignments File: C:/Users/bss10/OneDrive/Desktop/edit_3/t1a_fs_pwm/code/pwm_generator.v Line: 49
+Warning (10268): Verilog HDL information at frequency_scaler.v(37): always construct contains both blocking and non-blocking assignments File: C:/Users/bss10/OneDrive/Desktop/edit_3/t1a_fs_pwm/code/frequency_scaler.v Line: 37
